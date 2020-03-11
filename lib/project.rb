@@ -7,5 +7,7 @@ def initialize(title)
    @backers = []
  end  
  
- def 
+ def add_backer(backer)
+    @backers << backer
+ end
 end  
