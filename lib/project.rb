@@ -9,5 +9,6 @@ def initialize(title)
  
  def add_backer(backer)
     @backers << backer
+    backer.
  end
 end  
